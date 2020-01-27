@@ -1,0 +1,50 @@
+.cities{
+  text-align: center;
+}
+.js{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 10px;
+}
+.box{
+  margin: 20px;
+}
+.imageClass {
+  width: 100%;
+  height: auto;
+}
+  
+.descriptionClass {
+  width: 100%;
+}
+.containerNy {
+  width: 300px;
+  height: 800px;
+  padding: 30px;
+  border: 3px solid blue;
+}
+.containerJapan {
+  width: 300px;
+  height: 800px;
+  padding: 30px;
+  border: 3px solid pink;
+} 
+.containerSeoul {
+  width: 300px;
+  height: 800px;
+  padding: 30px;
+  border: 3px solid violet;
+}
+.containerParis {
+  width: 300px;
+  height: 800px;
+  padding: 30px;
+  border: 3px solid rgb(101, 206, 255);
+}
+.containerLondon {
+  width: 300px;
+  height: 800px;
+  padding: 30px;
+  border: 3px solid rgb(184, 184, 184);
+}
